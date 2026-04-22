@@ -40,5 +40,4 @@ VPN-Service — это информационная система для пре
 
 ## Документация
 - [Документация разработчика](./docs/developer/index.md)
-- [Требования](./docs/requirements/functional-requirements.md)
 - GitHub Wiki: пользовательская документация

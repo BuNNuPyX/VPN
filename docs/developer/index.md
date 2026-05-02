@@ -100,10 +100,9 @@ VPN-Service — это информационная система, предна
 Рекомендуемый порядок изучения:
 
 1. architecture.md — понимание структуры системы  
-2. services.md — изучение сервисов  
-3. api.md — работа с API  
-4. database.md — модель данных  
-5. deployment.md — развертывание  
-6. security.md — безопасность  
-7. coding-standards.md — правила разработки  
+2. api.md — работа с API  
+3. database.md — модель данных  
+4. deployment.md — развертывание  
+5. security.md — безопасность  
+6. coding-standards.md — правила разработки  
 

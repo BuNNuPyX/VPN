@@ -28,7 +28,6 @@ VPN-Service — это информационная система, предна
 Документация разработчика состоит из следующих разделов:
 
 - [architecture.md](architecture.md) — описание архитектуры системы  
-- [services.md](services.md) — описание микросервисов  
 - [api.md](api.md) — описание REST API  
 - [database.md](database.md) — описание базы данных  
 - [deployment.md](deployment.md) — процесс развертывания  
